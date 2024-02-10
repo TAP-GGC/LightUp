@@ -8,10 +8,10 @@ Description:
 ●	Duration of workshop: 45-60 minutes
 ●	Needed materials: a computer, internet acess, the starter files
 ●	learning outcomes: students will learn basic programming topics including, loops, if statements, sprites, and moving objects using cordinates.
+●	This project was created to show students of all ages that programming is not a scary concept and that anyone can learn it.  The game was created by using scratch, scratch is a free block based coding tool created by MIT to generate intrest in programming around the world.  during a comparasion of before and after surveys, there was a clear improvement in the number of students that correctly answered the questions.
 
-
-●	Put one paragraph that briefly describes the project, its technology, what is the result, and target
 ●	Include one sentence about the TAP program and give link to GGC Tap website
+https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
 ●	Video of project demo run-through (link to the one in the media/ folder)
 
 Team
