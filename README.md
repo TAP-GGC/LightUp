@@ -1,8 +1,8 @@
-# LightUp-Teaching-Programming-Basics-with-Scratch
+# LightUp
 
-Project Title: LightUp: Teaching-Programming-Basics-with-Scratch
+##Project Title: LightUp
 
-Description:
+##Description:
 ●	Difficulty Level: beginner
 ●	Target Audience: students with little to no programming knowledge
 ●	Duration of workshop: 45-60 minutes
@@ -14,35 +14,35 @@ Description:
 https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
 ●	Video of project demo run-through (link to the one in the media/ folder)
 
-Team
+##Team
 ●	Sterling Abrams
 ●	Anh Thu Nguyen
 ●	Jared Alt
 
-Advisors
+##Advisors
 ●	Dr. Wei Jin
 ●	Dr. Xin Xu
 
 ●	Put team photo (link to the one in the media/ folder) with a description below the photo identifying each team member from left to right)
 
-Publications: 
+##Publications: 
 Not available
 
-Outreach Activities 
+##Outreach Activities 
 1.	TAP Expo, Oct 11 2022, Georgia Gwinnett College - to promote IT field and the TAP program to college students
 2.	(name of event), Oct 15 2022, Discovery Highschool -  to promote IT field to highschool and middle school students
 3.	Class Workshops – on Oct 26 2022, Oct 28 2022, Nov 2 2022, 3 occasions, to promote IT field to non-IT college students
 
-6.	Similar projects
+##Similar projects
 ●	List will be updated as time goes on
 
-Technology 
+##Technology 
 ●	This project uses Scratch, a free online tool that uses block programming
 
 ●	https://scratch.mit.edu/
 ●	Photo of robot/technology (link to the one in the media/ folder)
 
-8.	Project Setup/Installation (##second-level heading)
+##Project Setup/Installation (##second-level heading)
 ●	Give precise list of instructions.  Use ###third-level headings for any subheadings in this section.
 
 9.	Short demo instructions (##second-level heading)
