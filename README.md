@@ -42,11 +42,16 @@ Not available
 ●	https://scratch.mit.edu/
 ●	Photo of robot/technology (link to the one in the media/ folder)
 
-##Project Setup/Installation (##second-level heading)
-●	Give precise list of instructions.  Use ###third-level headings for any subheadings in this section.
+##Project Setup/Installation
+● download the "TAPS Light-up Start v4.sb3" file, it is a blank file that has all the nessasary assets for the project  
+●	download the powerpoint, it has step by step instrucions, common problems, and how to fix them.
+### note: scratch does not need to be downloaded for the project to work, the browser version works too
+### note 2: if distrabution of the starter file proves dificult, a web version of the starter file can be found here (insert link)
 
-9.	Short demo instructions (##second-level heading)
-●	Link to document of instructions
+##Short demo instructions
+●	full detaills can be found in the powerpoint file
+●	drag and drop blocks to build the yellow light and yellow arrow code, repeat the steps for the other colors, changing coordinates and input as needed
+
 ●	Post video run-through - about 3-5 min
 
 10.	Workshop Instructions (##second-level heading)
