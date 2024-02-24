@@ -1,4 +1,4 @@
-# LightUp
+# LightUp 
 
 ##Project Title: LightUp
 
@@ -46,7 +46,8 @@ Not available
 ● download the "TAPS Light-up Start v4.sb3" file, it is a blank file that has all the nessasary assets for the project  
 ●	download the powerpoint, it has step by step instrucions, common problems, and how to fix them.
 ### note: scratch does not need to be downloaded for the project to work, the browser version works too
-### note 2: if distrabution of the starter file proves dificult, a web version of the starter file can be found here (insert link)
+### note 2: if distrabution of the starter file proves dificult, a web version of the starter file can be found here https://scratch.mit.edu/projects/971345619/ 
+
 
 ##Short demo instructions
 ●	full detaills can be found in the powerpoint file
