@@ -1,8 +1,8 @@
 # LightUp 
 
-##Project Title: LightUp
+## Project Title: LightUp
 
-##Description:
+## Description:
 ●	Difficulty Level: beginner
 ●	Target Audience: students with little to no programming knowledge
 ●	Duration of workshop: 45-60 minutes
@@ -33,16 +33,16 @@ Not available
 2.	(name of event), Oct 15 2022, Discovery Highschool -  to promote IT field to highschool and middle school students
 3.	Class Workshops – on Oct 26 2022, Oct 28 2022, Nov 2 2022, 3 occasions, to promote IT field to non-IT college students
 
-##Similar projects
+## Similar projects
 ●	List will be updated as time goes on
 
-##Technology 
+## Technology 
 ●	This project uses Scratch, a free online tool that uses block programming
 
 ●	https://scratch.mit.edu/
 ●	Photo of robot/technology (link to the one in the media/ folder)
 
-##Project Setup/Installation
+## Project Setup/Installation
 ● download the "TAPS Light-up Start v4.sb3" file, it is a blank file that has all the nessasary assets for the project  
 ●	download the powerpoint, it has step by step instrucions, common problems, and how to fix them.
 ### note: scratch does not need to be downloaded for the project to work, the browser version works too
