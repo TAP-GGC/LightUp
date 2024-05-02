@@ -10,9 +10,9 @@
 -	learning outcomes: students will learn basic programming topics including, loops, if statements, sprites, and moving objects using cordinates.
 -	This project was created to show students of all ages that programming is not a scary concept and that anyone can learn it.  The game was created by using scratch, scratch is a free block based coding tool created by MIT to generate intrest in programming around the world.  during a comparasion of before and after surveys, there was a clear improvement in the number of students that correctly answered the questions.
 
--	Include one sentence about the TAP program and give link to GGC Tap website
+### TAPS Website
 https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
--	Video of project demo run-through (link to the one in the media/ folder)
+
 
 ## Team
 -	Sterling Abrams
@@ -53,5 +53,5 @@ Not available
 -	full detaills can be found in the powerpoint file
 -	drag and drop blocks to build the yellow light and yellow arrow code, repeat the steps for the other colors, changing coordinates and input as needed
 
-10.	Workshop Instructions (##second-level heading)
--	Give precise list of instructions and video
+10.	Workshop Instructions
+-	Instructions are avalible in the powerpoint
