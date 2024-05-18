@@ -1,9 +1,6 @@
-# LightUp 
-
-## Project Title: LightUp
-
+# LightUp: Teaching Programming Basics with Scratch
 ## Description:
--	Difficulty Level: beginner
+-	Difficulty Level: Beginner
 -	Target Audience: students with little to no programming knowledge
 -	Duration of workshop: 45-60 minutes
 -	Needed materials: a computer, internet acess, the starter files
