@@ -30,12 +30,9 @@
 ## Technology 
 This project uses Scratch, a free online tool that uses block programming<br><br>
 <img src="https://th.bing.com/th/id/OIP.YthzM__CvSQIYwBfU8rn3QAAAA?w=236&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100" height="75"><br>
-(Scratch)<br><br>
+(Scratch)<br>
 <img src="https://ct4edu.org/wp-content/uploads/2020/04/Screen-Shot-2020-04-07-at-10.20.39-AM-1024x341.png" width="275" height="100"><br>
 (Scratch Block Coding sample)
-
--	https://scratch.mit.edu/
--	Photo of robot/technology (link to the one in the media/ folder)
 
 ## Project Setup/Installation
 - download the "TAPS Light-up Start v4.sb3" file, it is a blank file that has all the nessasary assets for the project  
