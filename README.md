@@ -1,37 +1,31 @@
 # LightUp: Teaching Programming Basics with Scratch
 ## Description:
 -	Difficulty Level: Beginner
--	Target Audience: students with little to no programming knowledge
+-	Target Audience: High School - College
 -	Duration of workshop: 45-60 minutes
--	Needed materials: a computer, internet acess, the starter files
--	learning outcomes: students will learn basic programming topics including, loops, if statements, sprites, and moving objects using cordinates.
--	This project was created to show students of all ages that programming is not a scary concept and that anyone can learn it.  The game was created by using scratch, scratch is a free block based coding tool created by MIT to generate intrest in programming around the world.  during a comparasion of before and after surveys, there was a clear improvement in the number of students that correctly answered the questions.
-
-### TAPS Website
-https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
-
-
-## Team
--	Sterling Abrams
--	Anh Thu Nguyen
--	Jared Alt
+-	Needed materials: Computer, Internet Access, Starter Files
+-	The goal of this project is to introduce students to basic programming topics such as if statements and loops by using Scratch sprites and coordinates.
+-	By participating in this workshop students will get to experiment with Scratch a free block based coding tool created by MIT to generate their own mini programming project.
+-	The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
 ## Advisors
 -	Dr. Wei Jin
 -	Dr. Xin Xu
-
+## Team
+-	Sterling Abrams
+-	Anh Thu Nguyen
+-	Jared Alt <br><br>
+### Team Photo
 -	Put team photo (link to the one in the media/ folder) with a description below the photo identifying each team member from left to right)
 
-##Publications: 
-Not available
+## Publications
 
-##Outreach Activities 
--	TAP Expo, Oct 11 2022, Georgia Gwinnett College - to promote IT field and the TAP program to college students
--	(name of event), Oct 15 2022, Discovery Highschool -  to promote IT field to highschool and middle school students
-- Class Workshops – on Oct 26 2022, Oct 28 2022, Nov 2 2022, 3 occasions, to promote IT field to non-IT college students
+## Outreach Activities 
+1.	TAP Expo, Oct 11 2022, Georgia Gwinnett College - To promote IT field and the TAP program to college students
+2.	(name of event), Oct 15 2022, Discovery Highschool -  To promote IT field to highschool and middle school students
+3. Class Workshops, Oct 26 2022, Oct 28 2022, Nov 2 2022 - To promote IT field to non-IT college students
 
 ## Similar projects
--	List will be updated as time goes on
 
 ## Technology 
 -	This project uses Scratch, a free online tool that uses block programming
