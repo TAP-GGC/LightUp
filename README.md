@@ -16,7 +16,8 @@
 -	Anh Thu Nguyen
 -	Jared Alt <br><br>
 ### Team Photo
--	Put team photo (link to the one in the media/ folder) with a description below the photo identifying each team member from left to right)
+<img src= "Media/TAP-LightUp.png" width="400" height="300"> <br>
+(Left: Sterling Abrams, Middle: Anh Thu Nguyen, Right: Jared Alt) <br>
 
 ## Publications
 
