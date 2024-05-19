@@ -38,8 +38,6 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 ## Project Setup/Installatiom
 To start the workshop please follow the steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
-### note 2: if distrabution of the starter file proves dificult, a web version of the starter file can be found here https://scratch.mit.edu/projects/971345619/ 
-
 
 ## Short demo instructions
 -	full detaills can be found in the powerpoint file
