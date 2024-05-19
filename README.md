@@ -35,10 +35,9 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 <img src="https://ct4edu.org/wp-content/uploads/2020/04/Screen-Shot-2020-04-07-at-10.20.39-AM-1024x341.png" width="275" height="100"><br>
 (Scratch Block Coding sample)
 
-## Project Setup/Installation
-- download the "TAPS Light-up Start v4.sb3" file, it is a blank file that has all the nessasary assets for the project  
--	download the powerpoint, it has step by step instrucions, common problems, and how to fix them.
-### note: scratch does not need to be downloaded for the project to work, the browser version works too
+## Project Setup/Installatiom
+To start the workshop please follow the steps:<br>
+1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf).<br>
 ### note 2: if distrabution of the starter file proves dificult, a web version of the starter file can be found here https://scratch.mit.edu/projects/971345619/ 
 
 
