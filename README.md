@@ -30,7 +30,7 @@
 
 ## Technology 
 This project uses Scratch, a free online tool that uses block programming.<br><br>
-
+<img src="https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Media/Scratch_02.png"><br>
 (Scratch)<br><br>
 <img src="https://ct4edu.org/wp-content/uploads/2020/04/Screen-Shot-2020-04-07-at-10.20.39-AM-1024x341.png" width="275" height="100"><br>
 (Scratch Block Coding sample)
