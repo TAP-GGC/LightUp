@@ -36,14 +36,14 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 (Scratch Block Coding sample)
 
 ## Demo Video
-[LightUp Demo Video](put a link to the demo video here when it gets uploaded)
+[LightUp Demo Video]() put a link to the demo video here when it gets uploaded
 
 ## Project Setup/Installatiom
 To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
 2. To get the workshop instructions, plase click this link: [LightUp Workshop Instructions PDF]()
 3. To get a video walkthrough of the workshop please follow these videos:<br>
-   a. [LightUp Workshop Part 1]()<br>
-   b. [LightUp Workshop Part 2]()<br>
-   c. [LightUp Workshop Part 3]()<br>
-   d. [LightUp Workshop Part 4]()
+   a. [LightUp Workshop Part 1]() put a link to the demo video here when it gets uploaded<br>
+   b. [LightUp Workshop Part 2]() put a link to the demo video here when it gets uploaded<br>
+   c. [LightUp Workshop Part 3]() put a link to the demo video here when it gets uploaded<br>
+   d. [LightUp Workshop Part 4]() put a link to the demo video here when it gets uploaded
