@@ -42,7 +42,7 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
 2. To get the written workshop instructions, please use the following links:<br>
-   a. [LightUp Workshop Part 1 - Turn on Lights PDF]() <br>
+   a. [LightUp Workshop Part 1 - Turn on Lights PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%201.pdf) <br>
    b. [LightUp Workshop Part 2 - Falling Arrows PDF]() put a link to the video here when it gets uploaded<br>
    c. [LightUp Workshop Part 3 - Hit Registry PDF]() put a link to the video here when it gets uploaded<br>
    d. [LightUp Workshop Part 4 - Add Difficulty PDF]() put a link to the video here when it gets uploaded
