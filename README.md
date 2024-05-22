@@ -41,9 +41,13 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 ## Project Setup/Installation
 To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
-2. To get the workshop instructions, please click this link: [LightUp Workshop Instructions PDF]()
-3. To get a video walkthrough of the workshop please follow these videos:<br>
-   a. [LightUp Workshop Part 1]() put a link to the demo video here when it gets uploaded<br>
-   b. [LightUp Workshop Part 2]() put a link to the demo video here when it gets uploaded<br>
-   c. [LightUp Workshop Part 3]() put a link to the demo video here when it gets uploaded<br>
-   d. [LightUp Workshop Part 4]() put a link to the demo video here when it gets uploaded
+2. To get the written workshop instructions, please use the following links:<br>
+   a. [LightUp Workshop Part 1 - Turn on Lights PDF]() <br>
+   b. [LightUp Workshop Part 2 - Falling Arrows PDF]() put a link to the video here when it gets uploaded<br>
+   c. [LightUp Workshop Part 3 - Hit Registry PDF]() put a link to the video here when it gets uploaded<br>
+   d. [LightUp Workshop Part 4 - Add Difficulty PDF]() put a link to the video here when it gets uploaded
+4. To get a video walkthrough of the workshop please follow these videos:<br>
+   a. [LightUp Workshop Part 1 - Turn on Lights]() put a link to the video here when it gets uploaded<br>
+   b. [LightUp Workshop Part 2 - Falling Arrows]() put a link to the video here when it gets uploaded<br>
+   c. [LightUp Workshop Part 3 - Hit Registry]() put a link to the video here when it gets uploaded<br>
+   d. [LightUp Workshop Part 4 - Add Difficulty]() put a link to the video here when it gets uploaded
