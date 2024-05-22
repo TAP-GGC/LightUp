@@ -35,14 +35,15 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 <img src="https://ct4edu.org/wp-content/uploads/2020/04/Screen-Shot-2020-04-07-at-10.20.39-AM-1024x341.png" width="275" height="100"><br>
 (Scratch Block Coding sample)
 
-## Project Setup/Installatiom
-To start the workshop please follow the steps:<br>
+## Demo Video
+[LightUp Demo Video]() put a link to the demo video here when it gets uploaded
+
+## Project Setup/Installation
+To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
-
-## Short demo instructions
--	full detaills can be found in the powerpoint file
--	drag and drop blocks to build the yellow light and yellow arrow code, repeat the steps for the other colors, changing coordinates and input as needed
-
-10.	Workshop Instructions
--	Instructions are avalible in the powerpoint
--	google drive for videos: https://drive.google.com/file/d/1_Pm2NiikX8k9fnfElErNB25cGI0kZvDr/view?usp=drive_link
+2. To get the workshop instructions, please click this link: [LightUp Workshop Instructions PDF]()
+3. To get a video walkthrough of the workshop please follow these videos:<br>
+   a. [LightUp Workshop Part 1]() put a link to the demo video here when it gets uploaded<br>
+   b. [LightUp Workshop Part 2]() put a link to the demo video here when it gets uploaded<br>
+   c. [LightUp Workshop Part 3]() put a link to the demo video here when it gets uploaded<br>
+   d. [LightUp Workshop Part 4]() put a link to the demo video here when it gets uploaded
