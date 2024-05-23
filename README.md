@@ -49,5 +49,5 @@ To start the workshop please follow these steps:<br>
 4. To get a video walkthrough of the workshop please follow these videos:<br>
    a. [LightUp Workshop Part 1 - Turn on Lights](https://youtu.be/YsP2XbsBGIw)<br>
    b. [LightUp Workshop Part 2 - Falling Arrows](https://youtu.be/8Rmc1j86FfU)<br>
-   c. [LightUp Workshop Part 3 - Hit Registry]() put a link to the video here when it gets uploaded<br>
+   c. [LightUp Workshop Part 3 - Hit Registry](https://youtu.be/snOWcFpRPqM)<br>
    d. [LightUp Workshop Part 4 - Add Difficulty]() put a link to the video here when it gets uploaded
