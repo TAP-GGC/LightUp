@@ -43,7 +43,7 @@ To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
 2. To get the written workshop instructions, please use the following links:<br>
    a. [LightUp Workshop Part 1 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%201.pdf) <br>
-   b. [LightUp Workshop Part 2 PDF]() put a link to the video here when it gets uploaded<br>
+   b. [LightUp Workshop Part 2 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%202%20%E2%80%93%20Falling%20Arrows.pdf)<br>
    c. [LightUp Workshop Part 3 PDF]() put a link to the video here when it gets uploaded<br>
    d. [LightUp Workshop Part 4 PDF]() put a link to the video here when it gets uploaded
 4. To get a video walkthrough of the workshop please follow these videos:<br>
