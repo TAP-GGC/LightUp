@@ -1,5 +1,5 @@
 # LightUp: Teaching Programming Basics with Scratch
-## Description:
+## Description
 -	Difficulty Level: Beginner
 -	Target Audience: High School - College
 -	Duration of workshop: 45-60 minutes
