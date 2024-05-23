@@ -36,7 +36,7 @@ This project uses Scratch, a free online tool that uses block programming.<br><b
 (Scratch Block Coding sample)
 
 ## Demo Video
-[LightUp Demo Video]() put a link to the demo video here when it gets uploaded
+[LightUp Demo Video](https://youtu.be/svz6xLvvvII)
 
 ## Project Setup/Installation
 To start the workshop please follow these steps:<br>
