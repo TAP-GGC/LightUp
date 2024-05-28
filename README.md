@@ -41,6 +41,9 @@ This is short video intended to show users what Scratch's block coding enviromen
 ## Project Setup/Installation
 To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
+
+After getting the workshop, you will notice that there are three ways to complete the workshop. Each way comes with pictures, videos, and/or written instructions to better help you understand what this project is about. Please choose the way that works best for you and/or your classroom needs.<br>
+
 2. To get the workshop instructions as a PDF, please use the following links:<br>
    a. [LightUp Workshop Part 1 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%201.pdf) <br>
    b. [LightUp Workshop Part 2 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%202%20%E2%80%93%20Falling%20Arrows.pdf)<br>
