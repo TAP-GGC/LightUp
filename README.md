@@ -41,12 +41,15 @@ This is short video intended to show users what Scratch's block coding enviromen
 ## Project Setup/Installation
 To start the workshop please follow these steps:<br>
 1. [Download LightUp](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Download%20LightUp.pdf)<br>
-2. To get the written workshop instructions, please use the following links:<br>
+2. To get the workshop instructions as a PDF, please use the following links:<br>
    a. [LightUp Workshop Part 1 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%201.pdf) <br>
    b. [LightUp Workshop Part 2 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%202%20%E2%80%93%20Falling%20Arrows.pdf)<br>
    c. [LightUp Workshop Part 3 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Workshop%20Part%203%20%E2%80%93%20Hit%20Registry.pdf)<br>
    d. [LightUp Workshop Part 4 PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Workshop%20Part%204%20%E2%80%93%20Add%20Difficulty.pdf)
-4. To get a video walkthrough of the workshop please follow these videos:<br>
+3. To get the workshop instructions as a PowerPoint, please use the following links:<br>
+   a. [LightUp Workshop PowerPoint - Part 1 and 2 ](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%201.pdf) <br>
+   b. [LightUp Workshop PowerPoint - Part 3 and 4 ](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20Instructions/LightUp%20Workshop%20Part%202%20%E2%80%93%20Falling%20Arrows.pdf)
+4. To get a video walkthrough of the workshop, please use these videos:<br>
    a. [LightUp Workshop Part 1 - Turn on Lights](https://youtu.be/YsP2XbsBGIw)<br>
    b. [LightUp Workshop Part 2 - Falling Arrows](https://youtu.be/8Rmc1j86FfU)<br>
    c. [LightUp Workshop Part 3 - Hit Registry](https://youtu.be/snOWcFpRPqM)<br>
