@@ -23,7 +23,7 @@
 
 ## Outreach Activities 
 1.	TAP Expo, Oct 11 2022, Georgia Gwinnett College - To promote IT field and the TAP program to college students
-2.	(name of event), Oct 15 2022, Discovery Highschool -  To promote IT field to highschool and middle school students
+2.	Discovery High School, Oct 15 2022, Discovery Highschool -  To promote IT field to highschool and middle school students
 3. Class Workshops, Oct 26 2022, Oct 28 2022, Nov 2 2022 - To promote IT field to non-IT college students
 
 ## Similar projects
