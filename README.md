@@ -57,3 +57,7 @@ After getting the workshop, you will notice that there are three ways to complet
    b. [LightUp Workshop Part 2 - Falling Arrows](https://youtu.be/8Rmc1j86FfU)<br>
    c. [LightUp Workshop Part 3 - Hit Registry](https://youtu.be/snOWcFpRPqM)<br>
    d. [LightUp Workshop Part 4 - Add Difficulty](https://youtu.be/wQRQuIe1nRA)
+
+In addition to the workshop, there is an additional workshop you may choose to use for more difficulty. The workshop will focus on adding levels to the LightUp game. The final solution code uses staggered waiting times to add more of a challenge.
+[LightUp Add Levels]() <br>
+[LightUp Add Levels Solution]()
