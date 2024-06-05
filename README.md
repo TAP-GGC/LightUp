@@ -59,5 +59,5 @@ After getting the workshop, you will notice that there are three ways to complet
    d. [LightUp Workshop Part 4 - Add Difficulty](https://youtu.be/wQRQuIe1nRA)
 
 In addition to the workshop, there is an additional workshop you may choose to use for more difficulty. The workshop will focus on adding levels to the LightUp game. The final solution code uses staggered waiting times to add more of a challenge.
-[LightUp Add Levels]() <br>
+[LightUp Add Levels PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/LightUp%20Files/LightUp%20Extra%20Code%20Solution%20and%20PDF%20Document/Extra%20LightUp%20Workshop%20Idea%20-%20Add%20Levels.pdf) <br>
 [LightUp Add Levels Solution]()
