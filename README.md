@@ -2,7 +2,7 @@
 ## Description
 -	Difficulty Level: Beginner
 -	Target Audience: High School - College
--	Duration of workshop: 45-60 minutes
+-	Duration of workshop: 75-120 minutes
 -	Needed materials: Computer, Internet Access, Starter Files
 -	The goal of this project is to introduce students to basic programming topics such as if statements and loops by using Scratch sprites and coordinates.
 -	By participating in this workshop students will get to experiment with Scratch a free block based coding tool created by MIT to generate their own mini programming project.
