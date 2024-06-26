@@ -58,7 +58,10 @@ After getting the workshop, you will notice that there are three ways to complet
    c. [LightUp Workshop Part 3 - Hit Registry](https://youtu.be/snOWcFpRPqM)<br>
    d. [LightUp Workshop Part 4 - Add Difficulty](https://youtu.be/wQRQuIe1nRA)
 
-In addition to the workshop, there is an additional workshop you may choose to use for more difficulty. The workshop will focus on adding levels to the LightUp game. The final solution code uses staggered waiting times to add more of a challenge.<br>
+There is an additional workshop you may choose to use for more difficulty. The workshop will focus on adding levels to the LightUp game. The final solution code uses staggered waiting times to add more of a challenge.<br>
 [LightUp Add Levels PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/LightUp%20Files/LightUp%20Extra%20Code%20Solution%20and%20PDF%20Document/Extra%20LightUp%20Workshop%20Idea%20-%20Add%20Levels.pdf) <br>
 [LightUp Add Levels Scratch Solution](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/LightUp%20Files/LightUp%20Extra%20Code%20Solution%20and%20PDF%20Document/LightUp%20Adding%20Levels%202%20and%203.sb3)<br>
 [LightUp Add Levels Workshop Video](https://youtu.be/z06eKl30LAc)
+
+The final extra workshop, details how to make the final LightUp game. The workshop goes through the process of how to make the game flow better for the user and creates an end screen which then stops the game and resets everytime a user restarts the game.
+[Cleaning Up LightUp Game PDF - Part 1]()
