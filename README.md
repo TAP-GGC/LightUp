@@ -64,4 +64,4 @@ There is an additional workshop you may choose to use for more difficulty. The w
 [LightUp Add Levels Workshop Video](https://youtu.be/z06eKl30LAc)
 
 The final extra workshop, details how to make the final LightUp game. The workshop goes through the process of how to make the game flow better for the user and creates an end screen which then stops the game and resets everytime a user restarts the game. Before starting this workshop please make sure you have completed the Add Levels workshop as this one will build upon that code.
-[Cleaning Up LightUp Game PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Additional%20Workshop%20Code%20Solutions%20and%20PDF%20Documents/Extra%20LightUp%20Workshop%20-%20Clean%20Up%20Game.pdf)
+[Cleaning Up LightUp Game PDF](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/Extra%20LightUp%20Workshop%20-%20Clean%20Up%20Game.pdf)
