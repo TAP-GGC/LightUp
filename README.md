@@ -58,7 +58,7 @@ After getting the workshop, you will notice that there are three ways to complet
    c. [LightUp Workshop Part 3 - Hit Registry](https://youtu.be/snOWcFpRPqM)<br>
    d. [LightUp Workshop Part 4 - Add Difficulty](https://youtu.be/wQRQuIe1nRA)
 
-The final workshop is extra and cvers how to clean up the LightUp game. The workshop goes through the process of how to make the game flow better for the user and creates an end screen which then stops the game and resets everytime a user starts the game.<br>
+The final workshop is extra and covers how to clean up the LightUp game. The workshop goes through the process of how to make the game flow better for the user and creates an end screen which then stops the game and resets everytime a user starts the game.<br>
 1. [LightUp Workshop Clean Up Game Part 1](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Workshop%20-%20Clean%20Up%20Game%20Part%201.pdf)<br>
 2. [LightUp Workshop Clean Up Game Part 2](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Workshop%20-%20Clean%20Up%20Game%20Part%202.pdf)<br>
 3. [LightUp Workshop Clean Up Game Part 3](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch/blob/main/Documents/Workshop%20PDF%20Instructions/LightUp%20Workshop%20-%20Clean%20Up%20Game%20Part%203.pdf)<br>
